@@ -41,7 +41,7 @@
     "esm": "^3.2.22",
     "is-docker": "^2.0.0",
     "lru-cache": "^5.1.1",
-    "node-localstorage": "^2.1.5",
+    "node-localstorage": "^2.2.1",
     "ora": "^3.2.0",
     "std-env": "^2.2.1",
     "universal-analytics": "^0.4.20",
